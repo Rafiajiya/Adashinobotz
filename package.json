@@ -26,16 +26,16 @@
     "Games-wabot",
     "wabot-aq"
   ],
-  "homepage": "https://github.com/AmmarBN/lordbot-v2",
+  "homepage": "https://github.com/LyliaSasha/Adashinobotz",
   "author": {
-    "name": "AmmarBN"
+    "name": "SashaChan"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AmmarBN/lordbot-v2.git"
+    "url": "git+https://github.com/LyliaSasha/Adashinobotz.git"
   },
   "bugs": {
-    "url": "https://github.com/AmmarBN/lordbot-v2/issues"
+    "url": "https://github.com/LyliaSasha/Adashinobotz/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
