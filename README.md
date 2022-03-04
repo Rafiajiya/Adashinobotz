@@ -1,5 +1,20 @@
 # Adashino benio
 
+<img src="https://user-images.githubusercontent.com/99161705/156725894-8d6cc9d8-f2e5-432e-89fc-671c784f9896.jpeg" />
+<p align="center"> 
+hai guys saya akan bagi2 sc lagi yang via github yo dan heroku untuk ffmpeg heroku di sini jangan nanya lagi klo nanya lagi akan block ya
+btw untuk heroku
+
+```
+> heroku/nodejs
+> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+> https://github.com/DuckyTeam/heroku-buildpack-imagemagick
+```
+
+</p> 
+
+
+# BOT WHATSAPP BY FOXTEAM
 
 <img src="https://user-images.githubusercontent.com/99161705/156768301-f9710f70-6147-4a74-ac85-7bd5541961d8.jpeg" />
 <p align="center"> 
