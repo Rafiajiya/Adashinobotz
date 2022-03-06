@@ -36,7 +36,12 @@ udh no enc masih gak subrek!?prah lu. gw udh taro untuk heroku yg ffmpeg dan ima
 > pkg install ffmpeg
 > pkg install imagemagick
 > git clone https://github.com/LyliaSasha/Adashinobotz
+> cd /sdcard
+> cp -r namabot $HOME
+> cd
+> cd namabot
 > bash install.sh
+> npm update
 > node .
 ```
 
